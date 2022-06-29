@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "dungeonmod:block/example_block"}
+  }
+}

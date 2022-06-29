@@ -1,0 +1,29 @@
+{
+  "_comment":"Block & Block item",
+  "item.dungeonmod.example_block": "Example Block",
+  "block.dungeonmod.example_block": "Example Block",
+
+  "item.dungeonmod.example2_block": "Example Block 2",
+  "block.dungeonmod.example2_block": "Example Block 2",
+
+  "itemGroup.dungeonmod":"Dungeon mod",
+
+  "item.dungeonmod.example_item": "Example_item",
+  "item.dungeonmod.example2_item": "Example2_item",
+
+
+
+
+  "item.dungeonmod.example_food": "Example food",
+
+
+
+
+
+  "item.dungeonmod.example_sword": "Example sword",
+  "item.dungeonmod.example_pickaxe": "Example pickaxe",
+  "item.dungeonmod.example_shovel": "Example shovel",
+  "item.dungeonmod.example_axe": "Example axe",
+  "item.dungeonmod.example_hoe": "Example hoe"
+
+}
